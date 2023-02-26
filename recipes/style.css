@@ -1,0 +1,23 @@
+div {
+    color: black;
+    text-align: center;
+    font-size: 32px; 
+    font-family: Verdana, Garamond, Tahoma, sans-serif;
+  }
+
+.pix{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+
+  ul {
+    list-style-type: none;
+  }
+
+  ol {
+    text-align: left;
+  }
+
+  
